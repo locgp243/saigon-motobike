@@ -1,0 +1,15 @@
+{
+  "name": "saigonmotobike",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SAIGON MOTOBIKE",
+  "license": "ISC",
+  "description": "SAIGON MOTOBIKE",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
